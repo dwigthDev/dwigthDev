@@ -18,7 +18,7 @@ I am a **Computer Engineering student** passionate about software development an
 
 I enjoy learning how systems work, solving problems with code, and improving my technical skills every day. My main focus is **web development**, especially modern frontend applications and scalable backend services.
 
-I am currently working on projects using **React, TypeScript, and Spring Boot**, learning how to design better APIs and build complete full-stack applications.
+I am currently working on projects using **React, TypeScript, and NestJS**, learning how to design better APIs and build complete full-stack applications.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/santiagolopezdev/">
