@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 I'm Santiago Lopez </h1>
+<h1 align="center">👨‍💻 Hi, I'm Santiago Lopez </h1>
 
 <p align="center">
 Computer Engineering Student • Full-Stack Developer 
